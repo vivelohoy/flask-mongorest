@@ -9,7 +9,9 @@ Installation
 This project is really young and it isn't up at PYPI yet.
 
 `git clone https://github.com/vivelohoy/flask-mongorest.git`
+
 `cd /path/to/flask-mongorest`
+
 `python setup.py install`
 
 Usage
